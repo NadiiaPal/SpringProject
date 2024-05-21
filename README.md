@@ -1,5 +1,7 @@
 # SpringProject
 ІПЗ-23 Палюга Надія
+# Link to mockup
+https://www.figma.com/design/6HV6Fy3ZaNqfVtfBftE51v/project?node-id=7%3A309&t=Ll9md8jPZ9oISWsv-1
 # ER-diagram
 ![image](https://github.com/NadiiaPal/SpringProject/assets/126204844/d183d958-0e9b-41bb-bdfe-185651151032)
 # Functional Requirements
